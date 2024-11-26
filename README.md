@@ -34,7 +34,7 @@ The app accepts the following inputs:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AryanDhanuka10/Diabetes-Prediction
+   git clone https://github.com/stalker2005/Diabetes_Prediction
    cd Diabetes-Prediction
    ```
 
